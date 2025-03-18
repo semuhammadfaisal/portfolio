@@ -25,7 +25,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.3 }}
         className='flex items-center gap-2 text-xl md:text-2xl font-Ovo'
       >
-        Hi, I'm Muhammad Faisal{' '}
+        Hi, I&apos;m Muhammad Faisal{' '}
         <Image src={assets.hand_icon} alt='Wave' className='w-6' />
       </motion.h3>
 
